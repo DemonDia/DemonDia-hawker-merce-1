@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/hawker-merce-1/static/css/main.2b9e1107.chunk.css",
+    "main.js": "/hawker-merce-1/static/js/main.80e1b403.chunk.js",
+    "main.js.map": "/hawker-merce-1/static/js/main.80e1b403.chunk.js.map",
+    "runtime-main.js": "/hawker-merce-1/static/js/runtime-main.d03ac066.js",
+    "runtime-main.js.map": "/hawker-merce-1/static/js/runtime-main.d03ac066.js.map",
+    "static/css/2.c1e28d34.chunk.css": "/hawker-merce-1/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.97939433.chunk.js": "/hawker-merce-1/static/js/2.97939433.chunk.js",
+    "static/js/2.97939433.chunk.js.map": "/hawker-merce-1/static/js/2.97939433.chunk.js.map",
+    "index.html": "/hawker-merce-1/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "/hawker-merce-1/static/css/2.c1e28d34.chunk.css.map",
+    "static/css/main.2b9e1107.chunk.css.map": "/hawker-merce-1/static/css/main.2b9e1107.chunk.css.map",
+    "static/js/2.97939433.chunk.js.LICENSE.txt": "/hawker-merce-1/static/js/2.97939433.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/hawker-merce-1/static/media/1.885f57c5.jpg",
+    "static/media/11.jpg": "/hawker-merce-1/static/media/11.5443fd37.jpg",
+    "static/media/12.jpg": "/hawker-merce-1/static/media/12.0b509f7d.jpg",
+    "static/media/13.jpg": "/hawker-merce-1/static/media/13.cf6b6ea5.jpg",
+    "static/media/14.jpg": "/hawker-merce-1/static/media/14.79cca2de.jpg",
+    "static/media/15.jpg": "/hawker-merce-1/static/media/15.4d8092e1.jpg",
+    "static/media/18.jpg": "/hawker-merce-1/static/media/18.2588a407.jpg",
+    "static/media/19.jpg": "/hawker-merce-1/static/media/19.f072fe2b.jpg",
+    "static/media/2.jpg": "/hawker-merce-1/static/media/2.e8639a12.jpg",
+    "static/media/20.jpg": "/hawker-merce-1/static/media/20.4d05d116.jpg",
+    "static/media/22.jpg": "/hawker-merce-1/static/media/22.de380c3d.jpg",
+    "static/media/3.jpg": "/hawker-merce-1/static/media/3.b557e6ae.jpg",
+    "static/media/4.jpg": "/hawker-merce-1/static/media/4.4c9cf693.jpg",
+    "static/media/6.jpg": "/hawker-merce-1/static/media/6.ccef6fd3.jpg",
+    "static/media/7.jpg": "/hawker-merce-1/static/media/7.aa1f8ed2.jpg",
+    "static/media/8.jpg": "/hawker-merce-1/static/media/8.a057766f.jpg",
+    "static/media/9.jpg": "/hawker-merce-1/static/media/9.1760d8f0.jpg",
+    "static/media/App.css": "/hawker-merce-1/static/media/missionimg.5c088ff8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d03ac066.js",
+    "static/css/2.c1e28d34.chunk.css",
+    "static/js/2.97939433.chunk.js",
+    "static/css/main.2b9e1107.chunk.css",
+    "static/js/main.80e1b403.chunk.js"
+  ]
+}
