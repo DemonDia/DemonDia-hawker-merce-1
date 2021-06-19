@@ -154,7 +154,7 @@ return(
             <div className = "checkoutBtnContainer">
             <Link to ="/cart" id = "backButton">Back</Link>
             {
-                valid?<Link to ="/receipt">Place Order</Link>:<Link to ="/checkout">Place Order</Link>
+                valid?<Link to ="/hawker-merce-a/receipt">Place Order</Link>:<Link to ="/hawker-merce-a/checkout">Place Order</Link>
             }
 
             </div>

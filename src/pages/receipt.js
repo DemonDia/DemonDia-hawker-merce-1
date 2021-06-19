@@ -58,7 +58,7 @@ console.log("receiptCart",receiptCart)
                 <h4>
                     Thank you for your purchase! We look forward in seeing you again!
                 </h4>
-                <Link to = "/">Order again!</Link>
+                <Link to = "/hawker-merce-a/">Order again!</Link>
 
 
 

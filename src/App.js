@@ -14,11 +14,11 @@ function App() {
       <Navbar/>
         <Switch>
          
-          <Route exact path = "/"><Home/></Route>
-          <Route exact path = "/menu"><Menu/></Route>
-          <Route exact path = "/cart"><Cart/></Route>
-          <Route exact path = "/checkout"><Checkout/></Route>
-          <Route exact path = "/receipt"><Receipt/></Route>
+          <Route exact path = "/hawker-merce-a/"><Home/></Route>
+          <Route exact path = "/hawker-merce-a/menu"><Menu/></Route>
+          <Route exact path = "/hawker-merce-a/cart"><Cart/></Route>
+          <Route exact path = "/hawker-merce-a/checkout"><Checkout/></Route>
+          <Route exact path = "/hawker-merce-a/receipt"><Receipt/></Route>
           // <Route exact path = "/error"></Route>
           <Route></Route>
         </Switch>

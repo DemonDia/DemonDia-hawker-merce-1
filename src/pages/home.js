@@ -23,7 +23,7 @@ const Home = () =>{
                 <TopDish/>
                 <div className = "moreDish"> 
                     <h1>
-                        Check out more dishes <Link to ="/menu">here</Link>!
+                        Check out more dishes <Link to ="/hawker-merce-a/menu">here</Link>!
                     </h1>
                 </div>
 

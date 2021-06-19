@@ -29,7 +29,7 @@ const Navbar = () =>{
                     <button className = "nav-toggle" onClick = {()=> setShowLinks(!showLinks)}>
                         <FaBars/>
                     </button>
-                    <Link to ="/">
+                    <Link to ="/hawker-merce-a/">
                         <img src = {logo} id = "logo"/>
                     </Link>
                     
@@ -50,13 +50,13 @@ const Navbar = () =>{
 
 
                         <li>
-                            <Link to = "/#homeTop">Home</Link>
+                            <Link to = "/hawker-merce-a/#homeTop">Home</Link>
                         </li>
                         <li>
-                            <Link to = "/menu">Menu</Link>
+                            <Link to = "/hawker-merce-a/menu">Menu</Link>
                         </li>
                         <li>
-                            <Link to = "/cart">Cart ({cart.length})</Link> 
+                            <Link to = "/hawker-merce-a/cart">Cart ({cart.length})</Link> 
                         </li>
                         {/* <li>
                             <Link to = "/checkout">Checkout</Link>
