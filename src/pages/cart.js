@@ -56,9 +56,9 @@ const Cart = () =>{
                 </tbody>
             </table>
             <div className = "cartBtnContainer">
-            <Link to = "/hawker-merce-a/menu" id = "cartBackBtn">Back</Link>
-            <Link to = "/hawker-merce-a/cart" id = "emptyButton" onClick = {emptyCart}>Empty Cart</Link>
-            <Link to = "/hawker-merce-a/checkout" id = "checkoutBtn">Checkout</Link>
+            <Link to = "/hawker-merce-1/menu" id = "cartBackBtn">Back</Link>
+            <Link to = "/hawker-merce-1/cart" id = "emptyButton" onClick = {emptyCart}>Empty Cart</Link>
+            <Link to = "/hawker-merce-1/checkout" id = "checkoutBtn">Checkout</Link>
 
             </div>
             </>
